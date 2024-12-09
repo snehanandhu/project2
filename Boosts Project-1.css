@@ -1,0 +1,398 @@
+.sec1 {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h2 {
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sec2 {
+    background-color: rgb(54, 158, 210);
+
+}
+.inbox2{
+    height: 350px;
+}
+
+.inbox3 h1 {
+    font-size: 50px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+}
+
+.inbox3 h2 {
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.inbox3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: auto;
+}
+
+.line1 {
+
+    background-color: white;
+    width: 200px;
+    height: 2px;
+}
+
+.inbox3 h3 {
+    color: rgb(78, 188, 251);
+    font-size: 20PX;
+    text-align: center;
+
+}
+
+.border1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: rgb(206, 242, 243);
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+
+
+}
+
+.sec3 {
+    background-color: white;
+
+}
+
+.inbox4 {
+
+    padding: 10px;
+    background-color: white;
+    width: 300px;
+    min-height: auto;
+}
+
+.inbox5 h1 {
+    margin-top: 30PX;
+    background-color: white;
+    font-size: 40PX;
+    text-align: center;
+}
+
+.inbox5 h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.border2 {
+    margin-top: 20px;
+    border-style: solid;
+    border-color: skyblue;
+    background-color: white;
+    text-align: center;
+    width: 20%;
+    position: absolute;
+    left: 40%;
+    padding: 10px;
+
+
+}
+
+.sec4 {
+    background-color: rgb(54, 158, 210);
+
+}
+
+.scale{
+    height: 70px;
+    margin-top: 20px;
+}
+.cloth{
+    height: 70px;
+    margin-top: 20px;
+}
+.suit {
+    height: 70px;
+    margin-top: 20px;
+}
+
+.inbox6 {
+    min-height: auto;
+    padding: 20px;
+}
+
+.inbox6 h1 {
+    margin-top: 30px;
+    font-size: 35px;
+    color: white;
+}
+
+.inbox6.line2 {
+    background-color: white;
+    height: 300px;
+    width: 200px;
+}
+
+.inbox6 p {
+    margin-top: 20px;
+    color: white;
+    font-size: 15px;
+}
+
+.sec5 {
+    background-color: rgb(14, 9, 9);
+
+}
+
+.inbox7 {
+    min-height: auto;
+    padding: 90px;
+}
+
+.inbox7 h1 {
+    text-align: center;
+    color: white;
+}
+
+.inbox7 p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.inbox7 h3 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.inbox7 h2 {
+    text-align: center;
+    color: white;
+}
+
+.border3{
+    text-align: center;
+  
+
+}
+.border3 a{
+    padding: 2px 50px;
+
+    background-color: white;
+    color: black;
+}
+
+.sec6 {
+    background-color: white;
+
+}
+
+.sec6 h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.inbox {
+    height: 200px;
+    float: left;
+    /* min-height: auto; */
+}
+
+.sec8 {
+    background-color: black;
+    overflow: auto;
+
+}
+
+.inbox10 {
+    min-height: 400px;
+    margin-top: 50px;
+}
+
+.inbox10 h1 {
+    margin-top: 40px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.inbox10 p {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.inbox10 h2 {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.border4 {
+    margin-top: 40px;
+    border-style: solid;
+    background-color: white;
+    text-align: center;
+    max-width: 200px;
+    margin: auto;
+    padding: 10px;
+}
+
+.sec9 {
+    background-color: white;
+
+}
+
+.inbox11 {
+    text-align: center;
+    margin-top: 15px;
+    min-height: auto;
+}
+
+.inbox11 p {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.twitter,
+.facebook,
+.instagram {
+
+    height: 25px;
+}
+
+.border5 {
+
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    background-color: white;
+    text-align: center;
+    width: 40%;
+    position: absolute;
+    left: 30%;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.line2 {
+    background-color: white;
+    height: 2px;
+    width: 200px;
+}
+
+.inbox6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inbox6 p {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.margin-x {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.sec4 {
+    position: relative;
+}
+
+.rectangle {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(54, 158, 210);
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    transform: rotate(45deg);
+}
+
+.inbox {
+    width: 100%;
+    height: 300px;
+}
+
+
+@media (max-width:768px) {
+    .inbox10 {
+        min-height: 600px;
+    }
+    .inbox1{
+        text-align: center;
+    } 
+    .inbox7 {
+        width: 100%;
+    }
+    .border3{
+        width: 100%;
+    }
+    .margin-x{
+        margin: 0;
+    }
+    .border3{
+        margin-top: 0px;
+    }
+
+    .logobox {
+        width: 100%;
+    }
+
+    .linkboxs {
+        width: 100%;
+    }
+
+}
+@media (max-width:556px){
+    .inbox6{
+        height: 400px;
+    }
+}
+
+@media (max-width:468px) {
+    .border3{
+        width:100%; 
+    }
+    .inbox10{
+        margin-top: 100px;
+    }
+    .border3 a{
+        font-size: 10px;
+    }
+    .cloth{
+        margin-top: 100px;
+    }
+    .inbox1{
+        text-align: center;
+    }
+    .border4{
+        width: 100%;
+    }
+}
